@@ -1,0 +1,6 @@
+{
+  "name": "FXZAIDU - Professional Forex & Gold Trading Journal",
+  "description": "Advanced trading journal, analytics, equity curves, calendar P&L, SMC trade breakdown, and profile suite for Forex and Gold traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
